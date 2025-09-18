@@ -7,5 +7,5 @@ def chat():
 def farewell():
     print("Goodbye, world")
 
-def farewell():
-    print("Goodbye, World!")
+# def farewell():
+#     print("Goodbye, World!")
